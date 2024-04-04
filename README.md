@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gaidai123
-- 👀 I’m interested in programming on C, C++, Arduino, and many computer games
-- 🌱 I’m currently learning C and C++
-- 😄 Pronouns: he
-- ⚡ Fun fact: I have collected almost all the achievements in the cookie clicker
+Просто личный аккаунт, на который я выкладываю свои интересные учебные проекты
+Я изучаю:
+- C и С++
+- Arduino
+- И любые другие вещи которые меня хоть как-то заинтересуют
 
 <!---
 Gaidai123/Gaidai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
