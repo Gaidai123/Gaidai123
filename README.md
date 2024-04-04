@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gaidai123
 - 👀 I’m interested in programming on C, C++, Arduino, and many computer games
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me: write to e-mail or Steam(https://steamcommunity.com/profiles/76561198862405241/)
 - 😄 Pronouns: he
 - ⚡ Fun fact: I have collected almost all the achievements in the cookie clicker
 
